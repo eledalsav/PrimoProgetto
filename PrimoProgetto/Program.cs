@@ -7,7 +7,7 @@ namespace PrimoProgetto
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Ciao Roby");
+            Console.WriteLine("Ciao a tutte");
 
         }
     }
